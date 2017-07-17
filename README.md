@@ -5,7 +5,7 @@
 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 
 * [General](#general)
-* [Design & Prototyping](#design-prototyping)
+* [Design & Prototyping](#design--prototyping)
 * [Development](#development)
 
 
@@ -14,7 +14,9 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 ### Newsletters
 
 * [Voice Dev Rocks](https://voicedev.rocks/): Tech-focused newsletter from the voice developer community
+* [Voicebot Weekly](https://www.voicebot.ai/subscribe/) Very up-to-date and thorough coverage of what's happening in voice
 * [Hearing Voices](https://www.getrevue.co/profile/hearingvoices): Market-focused newsletter sharing interesting links and thoughts about the voice space
+
 
 
 ### Podcasts
@@ -37,10 +39,11 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Sayspring](https://www.sayspring.com/): Service that allows for prototyping, designing, and sharing voice apps before development stage
 
 
-
 ### Tutorials & Resources
 
 * [Crafting a Character: Design an engaging Assistant app](https://codelabs.developers.google.com/codelabs/conversation-design): Step by step guide for designing a voice/bot character, provided by Google
+* 
+
 
 
 ## Development
@@ -50,7 +53,11 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 ### Tools
 
 
+## Testing
 
+### Tools
+
+* [BST](https://bespoken.tools/bst) Command Line Interface tool for testing while developing Alexa Skills and Google Actions
 
 
 

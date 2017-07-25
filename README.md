@@ -14,7 +14,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 ### Newsletters
 
 * [Voice Dev Rocks](https://voicedev.rocks/): Tech-focused newsletter from the voice developer community
-* [Voicebot Weekly](https://www.voicebot.ai/subscribe/) Very up-to-date and thorough coverage of what's happening in voice
+* [Voicebot Weekly](https://www.voicebot.ai/subscribe/): Very up-to-date and thorough coverage of what's happening in voice
 * [Hearing Voices](https://www.getrevue.co/profile/hearingvoices): Market-focused newsletter sharing interesting links and thoughts about the voice space
 
 
@@ -28,7 +28,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Alexa Slack](http://www.alexaslack.com/): 1000+ Alexa Skill developers
 * [Google Home Slack](http://googleslack.com/): 100+ Google Action developers
 * [Microsoft Cortana Slack](http://bit.ly/2qRqHMw): 30+ Cortana Skill developers
-* [#VoiceDevs on Twitter](https://twitter.com/jovotech/lists/voicedevs) Twitter List of voice developers
+* [#VoiceDevs on Twitter](https://twitter.com/jovotech/lists/voicedevs): Twitter List of voice developers
 
 
 
@@ -57,7 +57,8 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 
 ### Tools
 
-* [BST](https://bespoken.tools/bst) Command Line Interface tool for testing while developing Alexa Skills and Google Actions
+* [Silent Echo](https://silentecho.bespoken.io/): Talk to Alexa by typing, for example inside Slack
+* [BST](https://bespoken.tools/bst): Command Line Interface tool for testing while developing Alexa Skills and Google Actions
 
 
 

@@ -57,8 +57,9 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 
 ### Tools
 
-* [Silent Echo](https://silentecho.bespoken.io/): Talk to Alexa by typing, for example inside Slack
+* [Reverb](https://reverb.ai/): Test Alexa on your phone or desktop
 * [BST](https://bespoken.tools/bst): Command Line Interface tool for testing while developing Alexa Skills and Google Actions
+* [Silent Echo](https://silentecho.bespoken.io/): Talk to Alexa by typing, for example inside Slack
 
 
 

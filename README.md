@@ -49,7 +49,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Getting Started with Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide): Delving a bit deeper
 * [Crafting a Character: Design an engaging Assistant app](https://codelabs.developers.google.com/codelabs/conversation-design): Step by step guide for designing a voice/bot character, provided by Google
 * [Official Alexa tutorials](https://developer.amazon.com/alexa-skills-kit/tutorials): Up to date tutorials from the Alexa dev team
-* [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo]https://github.com/dabblelab)
+* [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
 * [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
 
 

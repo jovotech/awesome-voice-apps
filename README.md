@@ -61,6 +61,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 
 ### Tools
 * [Skillinator](https://skillinator.io/): Create an Alexa Skill node.js blueprint from an Interaction Model JSON
+* [Slotinator](http://www.slotinator.io/): Easily create an Alexa JSON structure for custom slots
 
 
 ## Testing

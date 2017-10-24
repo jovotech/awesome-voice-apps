@@ -52,7 +52,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Official Alexa tutorials](https://developer.amazon.com/alexa-skills-kit/tutorials): Up to date tutorials from the Alexa dev team
 * [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
 * [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
-* [Voice Guidelines](https://voiceguidelines.clearleft.com/) An extensive list of resources and guidelines for designing voice interfaces.
+* [Clearleft Voice Guidelines](https://voiceguidelines.clearleft.com/): An extensive list of resources and guidelines for designing voice interfaces.
 
 
 ## Development

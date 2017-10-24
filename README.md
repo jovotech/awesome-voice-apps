@@ -19,8 +19,8 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 
 ### Blogs
 
-* [Offical Alexa Dev Blog](https://developer.amazon.com/blogs/alexa/): Regularly updated with all the latest from the dev team
-
+* [Offical Alexa Dev Blog](https://developer.amazon.com/blogs/alexa/): Regularly updated with all the latest from the Alexa dev team.
+* [Talking to Computers](http://www.talkingtocomputers.com/): Development focused blog by Dustin Coates.
 
 ### Podcasts
 

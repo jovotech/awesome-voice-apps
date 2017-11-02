@@ -44,7 +44,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Storyline](https://thestoryline.io): Create voice apps without coding by using a mind map interface
 
 
-### Tutorials & Resources
+### Tutorials & Courses
 
 * [Offical Amazon Alexa docs](https://developer.amazon.com/documentation): Start here
 * [Getting Started with Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide): Delving a bit deeper
@@ -75,6 +75,11 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Silent Echo](https://silentecho.bespoken.io/): Talk to Alexa by typing, for example inside Slack
 * [EchoSim](https://echosim.io/) Test Alexa on your Amazon account from your browser
 
+## Resources
+
+### Sounds
+
+* [TsaTsaTzu Alexa Resources](https://s3.amazonaws.com/tsatsatzu-alexa/index.htm): Sound files to use in SSML <audio> tags
 
 ## License
 

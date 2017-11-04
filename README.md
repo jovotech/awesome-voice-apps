@@ -5,9 +5,9 @@
 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 
 * [General](#general)
-  * [Newsletter](#newsletters)
+  * [Newsletter](#newsletters)
   * [Blogs](#blogs)
-  * [Podcasts](#podcasts)
+  * [Podcasts](#podcasts)
   * [Communities](#communities)
 * [Design & Prototyping](#design--prototyping)
   * [Design Tools](#design-tools)
@@ -15,8 +15,8 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Development](#development)
   * [Development Tools](#development-tools)
   * [Docs](#docs)
-  * [Tutorials and Courses](#tutorials-courses)
-  * [Templates and Examples](#templates-examples)
+  * [Tutorials & Courses](#tutorials--courses)
+  * [Templates & Examples](#templates--examples)
 * [Testing](#testing)
   * [Testing Tools](#testing-tools)
 * [Resources](#resources)

@@ -5,27 +5,42 @@
 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 
 * [General](#general)
+  * [Newsletter](#newsletters)
+  * [Blogs](#blogs)
+  * [Podcasts](#podcasts)
+  * [Communities](#communities)
 * [Design & Prototyping](#design--prototyping)
+  * [Design Tools](#design-tools)
+  * [Design Resources](#design-resources)
 * [Development](#development)
+  * [Development Tools](#development-tools)
+  * [Docs](#docs)
+  * [Tutorials and Courses](#tutorials-courses)
+  * [Templates and Examples](#templates-examples)
+* [Testing](#testing)
+  * [Testing Tools](#testing-tools)
+* [Resources](#resources)
+  * [Sounds](#sounds)
 
 
 ## General
 
 ### Newsletters
 
-* [Voice Dev Rocks](https://voicedev.rocks/): Tech-focused newsletter from the voice developer community
-* [Voicebot Weekly](https://www.voicebot.ai/subscribe/): Very up-to-date and thorough coverage of what's happening in voice
-* [Hearing Voices](https://www.getrevue.co/profile/hearingvoices): Market-focused newsletter sharing interesting links and thoughts about the voice space
+* [Voice Dev Rocks](https://voicedev.rocks/): Tech-focused newsletter from the voice developer community.
+* [Voicebot Weekly](https://www.voicebot.ai/subscribe/): Very up-to-date and thorough coverage of what's happening in voice.
+* [Hearing Voices](https://www.getrevue.co/profile/hearingvoices): Market-focused newsletter sharing interesting links and thoughts about the voice space.
 
 ### Blogs
 
-* [Offical Alexa Dev Blog](https://developer.amazon.com/blogs/alexa/): Regularly updated with all the latest from the Alexa dev team.
-* [Talking to Computers](http://www.talkingtocomputers.com/): Development focused blog by Dustin Coates.
+* [Offical Alexa Dev Blog](https://developer.amazon.com/blogs/alexa/): Regularly updated with all the latest from the Alexa dev team
+* [Talking to Computers](http://www.talkingtocomputers.com/): Development focused blog by Dustin Coates
 
 ### Podcasts
 
 * [Alexa Dev Chat](https://developer.amazon.com/alexa-skills-kit/developer-podcast) The official Amazon Alexa Dev podcast (monthly)
 * [VoiceFirstFM](https://www.voicefirst.fm/): Great formats, including "This Week in Voice" and a roundtable
+* [Voicebot Podcasts](https://www.voicebot.ai/voicebot-podcasts/) Weekly podcast starring people involved in the voice space
 
 ### Communities
 
@@ -43,37 +58,54 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Sayspring](https://www.sayspring.com/): Service that allows for prototyping, designing, and sharing voice apps before development stage
 * [Storyline](https://thestoryline.io): Create voice apps without coding by using a mind map interface
 
+### Design Resources
 
-### Tutorials & Courses
-
-* [Offical Amazon Alexa docs](https://developer.amazon.com/documentation): Start here
-* [Getting Started with Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide): Delving a bit deeper
 * [Crafting a Character: Design an engaging Assistant app](https://codelabs.developers.google.com/codelabs/conversation-design): Step by step guide for designing a voice/bot character, provided by Google
-* [Official Alexa tutorials](https://developer.amazon.com/alexa-skills-kit/tutorials): Up to date tutorials from the Alexa dev team
-* [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
-* [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
 * [Clearleft Voice Guidelines](https://voiceguidelines.clearleft.com/): An extensive list of resources and guidelines for designing voice interfaces.
 
 
 ## Development
 
-### Templates and example code
+### Development Tools
 
-* [Alexa offical Github](https://github.com/alexa): 23 repos with python and node templates from the basics to an audioplayer
+#### Development Frameworks
 
-### Tools
-* [Skillinator](https://skillinator.io/): Create an Alexa Skill node.js blueprint from an Interaction Model JSON
-* [Slotinator](http://www.slotinator.io/): Easily create an Alexa JSON structure for custom slots
+* [Jovo](https://github.com/jovotech/jovo-framework-nodejs/): Build cross-platform voice applications for Amazon Alexa and Google Home
+* [Voxa](https://github.com/mediarain/voxa): Alexa Framework that uses state machines
+* [Flask-Ask](https://github.com/johnwheeler/flask-ask): Alexa Skills Kit for Python
 
-
-## Testing
-
-### Tools
+#### Testing Tools
 
 * [Reverb](https://reverb.ai/): Test Alexa on your phone or desktop
 * [BST](https://bespoken.tools/bst): Command Line Interface tool for testing while developing Alexa Skills and Google Actions
-* [Silent Echo](https://silentecho.bespoken.io/): Talk to Alexa by typing, for example inside Slack
 * [EchoSim](https://echosim.io/) Test Alexa on your Amazon account from your browser
+
+#### Analytics Tools
+* [VoiceLabs](http://voicelabs.co/): Voice analytics including usage metrics and voice pathing.
+* [Dashbot](https://www.dashbot.io/): Chatbot analytics including usage metrics and live transcripts.
+* [Bespoken Analytics](https://bespoken.io/product/): Dashboard including usage metrics, logging, and monitoring.
+
+#### Other tools
+* [Skillinator](https://skillinator.io/): Create an Alexa Skill node.js blueprint from an Interaction Model JSON
+* [Slotinator](http://www.slotinator.io/): Easily create an Alexa JSON structure for custom slots
+* [Audio Converter](https://www.jovo.tech/audio-converter): Convert your MP3s into the right format for Alexa skills
+
+### Docs
+
+* [Amazon Alexa Docs](https://developer.amazon.com/documentation): Official resource from Amazon
+* [Getting Started with Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide): Official resource from Amazon
+
+### Tutorials & Courses
+
+* [Official Alexa Tutorials](https://developer.amazon.com/alexa-skills-kit/tutorials): Up to date tutorials from the Alexa dev team
+* [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
+* [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
+
+### Templates and Examples
+
+* [Alexa Offical Github](https://github.com/alexa): 23 repos with python and node templates from the basics to an audioplayer
+* [Actions on Google Official GitHub](https://github.com/actions-on-google): 14 repos with node templates
+
 
 ## Resources
 

@@ -74,6 +74,12 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Voxa](https://github.com/mediarain/voxa): Alexa Framework that uses state machines
 * [Flask-Ask](https://github.com/johnwheeler/flask-ask): Alexa Skills Kit for Python
 
+#### NLU Tools
+
+* [Dialogflow](https://dialogflow.com/): Previously known as API.AI, owned by Google
+* [Rasa](http://rasa.ai/): Open source language understanding for conversational bots and assistants
+Install
+
 #### Testing Tools
 
 * [Reverb](https://reverb.ai/): Test Alexa on your phone or desktop
@@ -101,7 +107,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
 * [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
 
-### Templates and Examples
+### Templates & Examples
 
 * [Alexa Offical Github](https://github.com/alexa): 23 repos with python and node templates from the basics to an audioplayer
 * [Actions on Google Official GitHub](https://github.com/actions-on-google): 14 repos with node templates

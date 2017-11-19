@@ -61,7 +61,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 ### Design Resources
 
 * [Crafting a Character: Design an engaging Assistant app](https://codelabs.developers.google.com/codelabs/conversation-design): Step by step guide for designing a voice/bot character, provided by Google
-* [Clearleft Voice Guidelines](https://voiceguidelines.clearleft.com/): An extensive list of resources and guidelines for designing voice interfaces.
+* [Clearleft Voice Guidelines](https://voiceguidelines.clearleft.com/): An extensive list of resources and guidelines for designing voice interfaces
 
 
 ## Development
@@ -89,12 +89,16 @@ Install
 #### Analytics Tools
 * [VoiceLabs](http://voicelabs.co/): Voice analytics including usage metrics and voice pathing.
 * [Dashbot](https://www.dashbot.io/): Chatbot analytics including usage metrics and live transcripts.
-* [Bespoken Analytics](https://bespoken.io/product/): Dashboard including usage metrics, logging, and monitoring.
+* [Bespoken Analytics](https://bespoken.io/product/): Dashboard including usage metrics, logging, and monitoring
+
+#### Audio Tools
+* [Audio Converter](https://www.jovo.tech/audio-converter): Convert your MP3s into the right format for Alexa skills
+* [Talestreamer](https://talestreamer.ai/): Add rich, multilayered sound effects and music to your speech output.
 
 #### Other tools
 * [Skillinator](https://skillinator.io/): Create an Alexa Skill node.js blueprint from an Interaction Model JSON
 * [Slotinator](http://www.slotinator.io/): Easily create an Alexa JSON structure for custom slots
-* [Audio Converter](https://www.jovo.tech/audio-converter): Convert your MP3s into the right format for Alexa skills
+
 
 ### Docs
 

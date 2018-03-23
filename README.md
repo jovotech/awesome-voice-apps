@@ -57,6 +57,7 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 
 * [Sayspring](https://www.sayspring.com/): Service that allows for prototyping, designing, and sharing voice apps before development stage
 * [Storyline](https://thestoryline.io): Create voice apps without coding by using a mind map interface
+* [Botmock](https://botmock.com): Design prototypes for Amazon Alexa & Google Assistant with in-browser testing and team collaboration
 
 ### Design Resources
 

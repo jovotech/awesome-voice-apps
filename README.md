@@ -42,6 +42,11 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [VoiceFirstFM](https://www.voicefirst.fm/): Great formats, including "This Week in Voice" and a roundtable
 * [Voicebot Podcasts](https://www.voicebot.ai/voicebot-podcasts/) Weekly podcast starring people involved in the voice space
 
+
+### Books
+
+* [Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant)
+
 ### Communities
 
 * [Alexa Slack](http://www.alexaslack.com/): 1000+ Alexa Skill developers

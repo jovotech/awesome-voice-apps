@@ -113,6 +113,11 @@ Install
 * [DabbleLab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos): Weekly video tutorials and [associated github repo](https://github.com/dabblelab)
 * [Codecademy](https://www.codecademy.com/learn/learn-alexa-skills-kit): A complete "from the basics" intro to Alexa and Lambda
 
+### Books
+
+* [Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant) Book will teach you how to build your own "skills"— the voice app term for actions the device can perform — from scratch.
+
+
 ### Templates & Examples
 
 * [Alexa Offical Github](https://github.com/alexa): 23 repos with python and node templates from the basics to an audioplayer

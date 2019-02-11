@@ -79,17 +79,17 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 #### NLU Tools
 
 * [Dialogflow](https://dialogflow.com/): Previously known as API.AI, owned by Google
-* [Rasa](http://rasa.ai/): Open source language understanding for conversational bots and assistants
+* [Rasa](http://rasa.com/): Open source language understanding for conversational bots and assistants
 Install
 
 #### Testing Tools
 
 * [Reverb](https://reverb.ai/): Test Alexa on your phone or desktop
-* [BST](https://bespoken.tools/bst): Command Line Interface tool for testing while developing Alexa Skills and Google Actions
-* [EchoSim](https://echosim.io/) Test Alexa on your Amazon account from your browser
+* [BST](https://bespoken.io/bst): Command Line Interface tool for testing while developing Alexa Skills and Google Actions
+* [EchoSim](https://echosim.io/): Test Alexa on your Amazon account from your browser
+* [Jovo Debugger](https://www.jovo.tech/debugger): Test Jovo voice apps in your browser
 
 #### Analytics Tools
-* [VoiceLabs](http://voicelabs.co/): Voice analytics including usage metrics and voice pathing.
 * [Dashbot](https://www.dashbot.io/): Chatbot analytics including usage metrics and live transcripts.
 * [Bespoken Analytics](https://bespoken.io/product/): Dashboard including usage metrics, logging, and monitoring
 

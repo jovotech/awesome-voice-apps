@@ -75,12 +75,14 @@ A curated list of awesome voice projects, tools, and resources for Amazon Alexa,
 * [Jovo](https://github.com/jovotech/jovo-framework-nodejs/): Build cross-platform voice applications for Amazon Alexa and Google Home
 * [Voxa](https://github.com/mediarain/voxa): Alexa Framework that uses state machines
 * [Flask-Ask](https://github.com/johnwheeler/flask-ask): Alexa Skills Kit for Python
+* [Woice](https://woice.live): Voice Browsing and Transcription Framework.
 
 #### NLU Tools
 
 * [Dialogflow](https://dialogflow.com/): Previously known as API.AI, owned by Google
 * [Rasa](http://rasa.com/): Open source language understanding for conversational bots and assistants
 Install
+* [SNIPS] (https://snips.ai/): Snips provides Private-By-Design, Decentralized Voice Assistant Technology and Solutions.
 
 #### Testing Tools
 
